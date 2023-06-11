@@ -1,0 +1,24 @@
+{
+  "title": "Nights at the Circus",
+  "author": "Angela Carter",
+  "rating": 6,
+  "genres": [
+    "Fantasy",
+    "Romance",
+    "Historic"
+  ],
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "body": "Loved it"
+    },
+    {
+      "name": "Hoshi",
+      "body": "Kind of weird"
+    },
+    {
+      "name": "Moshi",
+      "body": "Magical"
+    }
+  ]
+}

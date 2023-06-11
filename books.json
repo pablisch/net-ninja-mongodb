@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "645f7231ebd62bdaeac2b91b"
+  },
+  "title": "Perfume",
+  "author": "Patrick Suskind",
+  "rating": 8,
+  "genres": [
+    "Fantasy",
+    "Period"
+  ],
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "body": "Great!"
+    },
+    {
+      "name": "Hoshi",
+      "body": "Terrible!"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645f7231ebd62bdaeac2b95c"
+  },
+  "title": "Waterlands",
+  "author": "Graham Swift",
+  "rating": 6,
+  "genres": [
+    "Historic"
+  ],
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "body": "Ok."
+    },
+    {
+      "name": "Hoshi",
+      "body": "Better than Book one"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "645f7231ebd62bdaeac2b99d"
+  },
+  "title": "The Passion",
+  "author": "Jeanette Winterson",
+  "rating": 7,
+  "genres": [
+    "Fantasy",
+    "Romance",
+    "Historic"
+  ],
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "body": "Didn't read it"
+    },
+    {
+      "name": "Hoshi",
+      "body": "Best book yet!"
+    },
+    {
+      "name": "Moshi",
+      "body": "Awesome"
+    }
+  ]
+}]
